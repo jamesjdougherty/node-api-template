@@ -1,0 +1,14 @@
+{
+  "name": "api-template",
+  "version": "1.0.0",
+  "description": "NodeJs Api Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "James Dougherty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
